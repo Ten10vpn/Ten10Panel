@@ -1,4 +1,4 @@
-# 🤖 Bot Mirza Panel
+# 🤖 Bot Ten10 Panel
 
 A Powerful Bot for Selling VPN Services with Auto Configuration Build.
 
